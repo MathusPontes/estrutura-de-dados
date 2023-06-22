@@ -1,0 +1,1 @@
+//colocar a variavel troca e adicionar sempre que tiver uma troca realizada tipo troca ++
